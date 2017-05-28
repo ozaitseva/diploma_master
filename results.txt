@@ -1,0 +1,32 @@
+ML-kNN
+Results:
+Optimal k: 10
+ Accuracy: 0.432338308458
+ Precision: 0.677819237148
+ Recall: 0.608167495854
+ F_1 measure: 0.623264629235
+ F_1_micro measure: 0.741793620528
+ F_1_macro measure: 0.482903643355
+ Precision_micro measure: 0.873797138497
+ Precision_macro measure: 0.555087709817
+ Recall_micro measure: 0.644812614503
+ Recall_macro measure: 0.456116001528
+ Hamming Loss: 0.0103706818023
+ Zero One Loss: 0.626865671642
+ Time: 240.375
+ 
+ Binary Relevance + SVM
+ Results:
+ Accuracy: 0.694029850746
+ Precision: 0.853399668325
+ Recall: 0.834577114428
+ F_1 measure: 0.833333333333
+ F_1_micro measure: 0.864018114504
+ F_1_macro measure: 0.71578594182
+ Precision_micro measure: 0.89463827157
+ Precision_macro measure: 0.737713657119
+ Recall_micro measure: 0.835764014188
+ Recall_macro measure: 0.714403250396
+ Hamming Loss: 0.00588606264452
+ Zero One Loss: 0.298507462687
+ Time: 21.4390001297
